@@ -1,0 +1,13 @@
+
+body{
+    background-color:greenyellow;
+    color: black;
+}
+span{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 4em;
+    font-weight: bolder;
+    margin: 260px auto;
+ };
